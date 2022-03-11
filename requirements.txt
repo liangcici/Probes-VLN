@@ -1,0 +1,14 @@
+lmdb
+networkx
+numpy
+pytorch-pretrained-bert
+tensorboardX
+torch
+tqdm
+argtyped
+transformers
+allennlp
+allennlp-models
+ftfy
+regex
+git+https://github.com/openai/CLIP.git
